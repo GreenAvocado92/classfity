@@ -1,0 +1,4 @@
+/mnt/f/ubuntu/core_codes/include/classification/build/CMakeFiles/rebuild_cache.dir
+/mnt/f/ubuntu/core_codes/include/classification/build/CMakeFiles/train.dir
+/mnt/f/ubuntu/core_codes/include/classification/build/CMakeFiles/edit_cache.dir
+/mnt/f/ubuntu/core_codes/include/classification/build/CMakeFiles/test.dir

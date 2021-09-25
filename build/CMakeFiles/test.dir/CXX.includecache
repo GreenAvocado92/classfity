@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/f/ubuntu/core_codes/include/classification/test.cpp
+iostream
+-
+cstdlib
+-
+fstream
+-
+iostream
+-
+string
+-
+CGAL/Simple_cartesian.h
+-
+CGAL/Classification.h
+-
+CGAL/Point_set_3.h
+-
+CGAL/Point_set_3/IO.h
+-
+CGAL/Real_timer.h
+-
+
